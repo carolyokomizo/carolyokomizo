@@ -4,13 +4,14 @@
 
 <div align="center"><br>
   <img align="center" alt="Carol-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"">
+  <img align="center" alt="Carol-Linux" height="30" width="40" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"">
   <img align="center" alt="Carol-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
-  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Carol-GCP" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+  <img align="center" alt="Carol-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Carol-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  </div>
 
 <br></br>

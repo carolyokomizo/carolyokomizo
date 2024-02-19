@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Hello+there!+My+name+is+Carolina+Yokomizo;I'm+23+years+old;I'm+from+São+Paulo+-+Brazil;Studying+Analysis+and+Systems+Development;Cloud+Enthusiast+☁️;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"><br>
-  <img align="center" alt="Carol-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Carol-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Carol-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Carol-GCP" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   <img align="center" alt="Carol-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">

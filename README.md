@@ -11,7 +11,7 @@ With extensive knowledge in infrastructure, I am currently transitioning to a de
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Technologies
 
 <img 
     align="left" 
